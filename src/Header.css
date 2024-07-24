@@ -1,0 +1,50 @@
+.component-header {
+  align-items: center;
+  position: relative;
+  position: inherit;
+  background-image: url("C:\studies\React.js\emoji\download (1).jpeg");
+  background-size: cover; 
+  background-position: 1cm; 
+    padding: 15px;
+    position: relative;
+    font-weight: normal;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    color: #f9f6f6;
+    opacity: 10;
+    transition: opacity 10s ease-in;
+    align-items: center;
+  }
+  
+  .component-header img {
+      width: auto;
+    position: relative;
+    top: 6px;
+    padding: 0 14px;
+    
+  }
+  .component-header {
+    overflow: hidden;
+    margin: 8px;
+    
+    width: 100%;
+  }
+  
+  .component-header img {
+    transition: all 2s;
+    box-sizing: border-box;
+    max-width: 100%;
+    animation-name: spin ;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+    
+  }
