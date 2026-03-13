@@ -2,7 +2,7 @@
   align-items: center;
   position: relative;
   position: inherit;
-  background-image: url("C:\studies\React.js\emoji\download (1).jpeg");
+  background-image: url("../download.jpeg");
   background-size: cover; 
   background-position: 1cm; 
     padding: 15px;
@@ -48,3 +48,4 @@
     }
     
   }
+
