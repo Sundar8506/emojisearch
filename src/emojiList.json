@@ -11,6 +11,11 @@
       "symbol": "🔢",
       "keywords": "input symbol for numbers symbol"
     },
+     {
+      "title": "Chello",
+      "symbol": "😍",
+      "keywords": "input symbol for numbers symbol"
+    },
     {
       "title": "Grinning",
       "symbol": "😀",
@@ -9223,3 +9228,4 @@
     }
 
   ]
+
